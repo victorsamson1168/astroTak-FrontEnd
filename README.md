@@ -1,3 +1,15 @@
+TO use this PROJECT you need to
+
+[] : # run the backend server for this project which is [Node js Astro Tak Backend](https://github.com/victorsamson1168/astroTak-BackEnd)
+[] : # clone this repo
+[] : # install all the packages with
+
+    npm install
+[] : # run the project with 
+
+    npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
