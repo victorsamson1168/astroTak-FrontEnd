@@ -1,7 +1,7 @@
-TO use this PROJECT you need to
+# TO use this PROJECT you need to
 
-[] : # run the backend server for this project which is [Node js Astro Tak Backend](https://github.com/victorsamson1168/astroTak-BackEnd)
-[] : # clone this repo
+[] : # run the backend server for this project which is [Node js Astro Tak Backend](https://github.com/victorsamson1168/astroTak-BackEnd) \
+[] : # clone this repo \
 [] : # install all the packages with
 
     npm install
