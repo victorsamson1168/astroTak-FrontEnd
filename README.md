@@ -1,3 +1,4 @@
+# PLEASE VIEW THIS IN MOBILE VIEW
 # TO use this PROJECT you need to
 
 [] : # run the backend server for this project which is [Node js Astro Tak Backend](https://github.com/victorsamson1168/astroTak-BackEnd) \
