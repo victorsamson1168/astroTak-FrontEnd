@@ -1,6 +1,6 @@
 
 import "./App.css";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, Link,Redirect } from "react-router-dom";
 import Home from "./containers/Home/Home";
 import 'antd/dist/antd.css';
 import TalkToAstrologer from "./containers/TalkToAstrologer/TalkToAstrologer";
@@ -20,7 +20,7 @@ function App() {
             </TalkToAstrologer>
           </Route>
           <Route path="/">
-
+            <Redirect to="/home" />
           </Route>
         </Switch>
       </div>
