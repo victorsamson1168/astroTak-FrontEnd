@@ -2,8 +2,7 @@ import { message } from "antd";
 import axios from "axios";
 
 const apiService = axios.create({
-//   baseURL: "http://localhost:3939"
-  baseURL: "http://192.168.29.4:3939"
+  baseURL: "http://localhost:3939"
 });
 
 const apiHolder = {};
