@@ -1,0 +1,27 @@
+.navbarContainer{
+    /* background-color: aqua; */
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    z-index: 1;
+}
+.hamburger{
+    max-width: 50px;
+    max-height: 50px;
+}
+.logo{
+ max-width: 50px;
+ max-height: 50px;
+}
+.avatar{
+    max-width: 30px;
+    max-height: 30px;
+    /* padding: 10px; */
+}

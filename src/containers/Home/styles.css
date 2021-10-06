@@ -1,0 +1,33 @@
+.cardParentContainer{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    flex-direction: row;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    padding: 10px;
+    gap: 10px;
+    width: 100vw;
+}
+*::-webkit-scrollbar {
+    display: none;
+  }
+  .customerReviewHeading{
+    font-size: medium;
+    font-weight: bolder;
+    margin: 0px;
+    text-align:  left;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .copyRight{
+      font-size: x-small;
+      color:gray;
+  }
+
+  .ganesha{
+      margin: auto;
+      width: 80vw;
+      margin-top: 50px;
+  }

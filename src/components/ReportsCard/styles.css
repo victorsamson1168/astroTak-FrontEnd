@@ -1,0 +1,33 @@
+.reportsCardContainer{
+    
+    width: 66vw;
+    border-radius: 20px;
+    /* padding: 10px; */
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    position: relative;
+    
+}
+.reportsBackgroungImage{
+    border-radius: 10px;
+
+}
+.rateAndButtonContainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    height:40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* width: 100%; */
+    bottom: 0;
+    background: rgb(0 0 0 / 0.4);
+    border-radius:0px 0px 10px 10px ;
+    /* border-radius: 0 0 10px 10px; */   
+}
+.reportsRate{
+    color: #fff;
+    margin-top: auto;
+    margin-bottom: auto;
+}

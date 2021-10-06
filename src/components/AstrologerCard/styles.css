@@ -1,0 +1,58 @@
+.cardContainer{
+    min-width: 40vw;
+    /* max-height: 220px; */
+    /* background-color: orchid; */
+    border-radius: 10px;
+    /* border: 1px solid #ccc; */
+    padding: 10px;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 0.3);
+
+}
+.astroImage{
+    border: red;
+    height:150px;
+    max-width: 150px;
+    object-fit: contain;
+    
+
+}
+.nameContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    /* margin-top:8px; */
+}
+.name{
+    font-weight: bold;
+
+}
+.rating{
+    color:orange;
+    font-size: large;
+    font-weight: bolder;
+
+}
+.description
+{
+    font-size: 12px;
+    color: grey;
+    text-align:left;
+}
+
+.timeContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.time{
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+.btn{
+    color: orange;
+}

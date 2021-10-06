@@ -1,0 +1,10 @@
+.bannerImage{
+    max-width: 40vw;
+    /* border: lightgray solid 0.5px; */
+}
+.bannerContainer{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    overflow-x: auto;
+}

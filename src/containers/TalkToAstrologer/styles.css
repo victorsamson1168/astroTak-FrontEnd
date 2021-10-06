@@ -1,0 +1,27 @@
+.settingsImages{
+    width: 15px;
+}
+.talkToAstrologerHeadingContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 95vw;
+    margin: auto;
+
+}
+.talkToAstrologerHeading{
+    font-weight: bold;
+}
+.sortByText{
+    margin-left: 15px;
+    margin-top: 10px;
+    color:#fc944b ;
+}
+.hideSearch{
+    display: none;
+}
+.filterGroup{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}

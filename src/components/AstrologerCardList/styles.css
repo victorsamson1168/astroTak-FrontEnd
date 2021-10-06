@@ -1,0 +1,41 @@
+.parentCardListContainer{
+    display: flex;
+    flex-direction: row;
+    /* background-color: purple; */
+    padding: 10px;
+}
+.AstrologerDetailsContainer{
+    margin-left: 20px;
+}
+.nameAStro{
+    font-size: 1rem;
+    font-weight: bold;
+    color: #000;
+    text-align: left;
+    margin-bottom: 0px;
+}
+.categories {
+    text-align: left;
+    margin-bottom: 0px;
+    font-size: 11px;
+}
+.languagesKnown {
+    text-align: left;
+    margin-bottom: 0px;
+    font-size: 11px;
+}
+
+.atrologerRate{
+    text-align: left;
+    font-weight: bolder;
+    margin-bottom: 5px;
+
+}
+
+.experienceContainer{
+    margin-left: auto;
+    white-space: nowrap;
+}
+.phoneIcon{
+    transform: rotate(90deg);
+}

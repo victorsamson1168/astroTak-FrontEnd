@@ -1,0 +1,27 @@
+.listHolderHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.seeAllButton{
+    color: orange;
+    font-weight: bold;
+    font-size: small;
+    margin: 0px;
+
+}
+.holderTitle{
+    font-size: medium;
+    font-weight: bolder;
+    margin: 0px;
+
+}
+.listHolderContainer{
+    margin: 10px;
+}
+.holderDescription{
+    text-align: left;
+    font-size: 12px;
+}
